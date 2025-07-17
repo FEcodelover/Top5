@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "locale": "English_Australia.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.7",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.1.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "9dd1c32b825353aaf19a666a69e81d56"
+    },
+    ".idea/.gitignore": {
+      "checksum": "39a31dab4c9ddc623f62a001753f531a"
+    },
+    ".idea/Top5.iml": {
+      "checksum": "5a387226a8202995889b26f755b93841"
+    },
+    ".idea/inspectionProfiles/profiles_settings.xml": {
+      "checksum": "05dbe611f5bdb7a801adb3f064d4bfa9"
+    },
+    ".idea/misc.xml": {
+      "checksum": "2015ca4eea263357a08267b59e152744"
+    },
+    ".idea/modules.xml": {
+      "checksum": "6b68a54bb8e4c648a40544e2ac46bb8c"
+    },
+    ".idea/vcs.xml": {
+      "checksum": "a8b625cb090fe904fb7338f6447f50ac"
+    },
+    ".idea/workspace.xml": {
+      "checksum": "dc707537e52adaa3e3d73f7a5a2f8368"
+    },
+    "README.md": {
+      "checksum": "4f4aef7a6c1e1284122bcb75a46e230e"
+    },
+    "app.py": {
+      "checksum": "127f7c76928248d5d4ed29516d6b2bd6"
+    },
+    "data.csv": {
+      "checksum": "8da5e3f4e5d46c024310cd04354f81bd"
+    }
+  }
+}
